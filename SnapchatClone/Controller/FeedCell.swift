@@ -11,7 +11,6 @@ class FeedCell: UITableViewCell {
 
     
     @IBOutlet var feedImageView: UIImageView!
-    
     @IBOutlet var feedUsernameLabel: UILabel!
     
     override func awakeFromNib() {
